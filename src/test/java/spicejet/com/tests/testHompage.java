@@ -1,4 +1,4 @@
-package spicejet.com.test;
+package spicejet.com.tests;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;

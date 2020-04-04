@@ -5,9 +5,9 @@
 	<parameter name = "homepageURL" value = "https://www.spicejet.com/"/>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="spicejet.com.test.testHomepage">
+      <class name="spicejet.com.tests.testHompage">
 	      <methods>
-	      <include name ="clickSearch" />
+	      <include name ="ValidateTitle" />
 	      </methods>
      </class>
     </classes>
