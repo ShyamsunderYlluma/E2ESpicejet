@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15610" started-at="2020-04-04T18:37:16Z" finished-at="2020-04-04T18:37:31Z">
+  <suite name="Suite" duration-ms="28297" started-at="2020-09-08T16:27:28Z" finished-at="2020-09-08T16:27:56Z">
     <groups>
       <group name="title">
         <method signature="testHompage.ValidateTitle()[pri:0, instance:spicejet.com.tests.testHompage@31610302]" name="ValidateTitle" class="spicejet.com.tests.testHompage"/>
       </group> <!-- title -->
     </groups>
-    <test name="Test" duration-ms="15610" started-at="2020-04-04T18:37:16Z" finished-at="2020-04-04T18:37:31Z">
+    <test name="Test" duration-ms="28297" started-at="2020-09-08T16:27:28Z" finished-at="2020-09-08T16:27:56Z">
       <class name="spicejet.com.tests.testHompage">
-        <test-method status="PASS" signature="loadDriver(java.lang.String, java.lang.String)[pri:0, instance:spicejet.com.tests.testHompage@31610302]" name="loadDriver" is-config="true" duration-ms="15411" started-at="2020-04-04T18:37:16Z" finished-at="2020-04-04T18:37:31Z">
+        <test-method status="PASS" signature="loadDriver(java.lang.String, java.lang.String)[pri:0, instance:spicejet.com.tests.testHompage@31610302]" name="loadDriver" is-config="true" duration-ms="27792" started-at="2020-09-08T16:27:28Z" finished-at="2020-09-08T16:27:55Z">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadDriver -->
-        <test-method status="PASS" signature="ValidateTitle()[pri:0, instance:spicejet.com.tests.testHompage@31610302]" name="ValidateTitle" duration-ms="25" started-at="2020-04-04T18:37:31Z" finished-at="2020-04-04T18:37:31Z">
+        <test-method status="PASS" signature="ValidateTitle()[pri:0, instance:spicejet.com.tests.testHompage@31610302]" name="ValidateTitle" duration-ms="26" started-at="2020-09-08T16:27:55Z" finished-at="2020-09-08T16:27:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidateTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:spicejet.com.tests.testHompage@31610302]" name="tearDown" is-config="true" duration-ms="151" started-at="2020-04-04T18:37:31Z" finished-at="2020-04-04T18:37:31Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:spicejet.com.tests.testHompage@31610302]" name="tearDown" is-config="true" duration-ms="420" started-at="2020-09-08T16:27:55Z" finished-at="2020-09-08T16:27:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
